@@ -4,3 +4,5 @@
 Repositório criado durante aula online 
 
 Linha inserida no prórpio GitHub devido a indisponibilidade do VS
+
+continuidade no treinamento
